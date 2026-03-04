@@ -8,16 +8,6 @@ Diferente de sistemas convencionais de clubes, o SIAT é uma ferramenta exclusiv
 
 ---
 
-## ⚙️ Funcionalidades Principais
-
-* **Gestão de Temporadas:** Controle centralizado por coordenadores para definição de categorias e turmas.
-* **Planejamento Dinâmico:** Funcionalidade de "Salvar como Rascunho", permitindo que o técnico prepare o treino antes ou durante a atividade.
-* **Hierarquia Técnica:** Sistema de permissões onde técnicos gerenciam suas turmas e auxiliares apoiam múltiplas frentes.
-* **Automação de Dados:** Processamento automático de indicadores técnicos (colunas N, O, P e Q) baseados nos registros de treino.
-* **Validação de Dados:** Fluxo de aprovação de dados cadastrais dos técnicos realizado pela coordenação.
-
----
-
 ## 🌐 Tecnologias
 
 ### Front-end
