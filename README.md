@@ -95,4 +95,4 @@ Utilizar mensagens curtas e descritivas seguindo o padrão **Conventional Commit
 
 **Exemplos:**
 ```bash
-git commit -m "feat: criação da página de alunos"
+git commit -m "feat: criação da página de login"
