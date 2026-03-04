@@ -61,21 +61,13 @@ O fluxo de trabalho segue o padrão:
 
 ## 🔃 Padrões
 
-### Padrão de cores
-- Identity color: #0166ff
-- Identity color (2) - mais escura: #0062f5
-- Text color - mais suave: #6b7280
-- Background color: #f6f7fc
-
 ### Padrão de código
-- Utilizar comentários em **inglês** para explicar ou separar linhas de código
 - Seguir convenções do ESLint configurado no projeto
 - Manter consistência na nomenclatura de variáveis e funções
 
 ### Padrão de branches e commits
 
 #### Branches
-- `ShapeMeApp-v(NUMBER)` → versão atual da aplicação
 - `production` → versão estável (produção)
 - `development` → integração e testes
 - `dev_nome` → desenvolvimento individual de cada desenvolvedor
