@@ -1,11 +1,13 @@
-# Arquitetura do Sistema - SIAT
+# Arquitetura do Sistema - SIATE
 
 ## Stack Tecnológica
+
 - **Front-end**: Next.js (App Router), Tailwind CSS
 - **Back-end/Infra**: Firebase (Authentication, Firestore)
 - **Linguagem**: JavaScript
 
 ## Estrutura de Pastas Sugerida
+
 ```bash
 src/
   app/              # Rotas e Páginas (App Router)
@@ -20,4 +22,5 @@ public/             # Arquivos estáticos
 ```
 
 ## Fluxo de Autenticação
+
 O sistema utilizará o **Firebase Auth** para gerenciar o acesso. Ao logar, o sistema deve verificar o perfil do usuário no Firestore para redirecionar ao dashboard correspondente (Coordenador ou Técnico).
